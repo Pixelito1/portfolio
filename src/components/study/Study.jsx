@@ -2,7 +2,7 @@ import { Studies } from "./Studies"; // Importa los datos desde el archivo data.
 
 function Study() {
   return (
-    <section>
+    <section id="3">
       <div className="flex flex-wrap justify-center md:gap-8 text-center ">
         {Studies.map((study, index) => (
           <div

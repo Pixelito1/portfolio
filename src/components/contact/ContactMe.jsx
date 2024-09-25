@@ -8,7 +8,7 @@ import {
 
 function ContactMe() {
   return (
-    <section className="bg-gray-900 py-12 mt-16 md:mt-20">
+    <section id="4" className="bg-gray-900 py-12 mt-16 md:mt-20">
       <div className="container mx-auto px-4">
         <h2 className="text-4xl font-bold text-center text-white mb-8">
           Contáctame
@@ -90,7 +90,7 @@ function ContactMe() {
                 </p>
                 <div className="flex justify-start space-x-4">
                   <a
-                    href="https://facebook.com"
+                    href="https://www.facebook.com/profile.php?id=100087361849321&mibextid=ZbWKwL"
                     className="text-gray-400 hover:text-blue-600"
                   >
                     <FaFacebook size={30} />
@@ -102,19 +102,19 @@ function ContactMe() {
                     <FaTwitter size={30} />
                   </a>
                   <a
-                    href="https://instagram.com"
+                    href="https://www.instagram.com/diego_fer82/"
                     className="text-gray-400 hover:text-pink-600"
                   >
                     <FaInstagram size={30} />
                   </a>
                   <a
-                    href="https://linkedin.com"
+                    href="https://www.linkedin.com/in/diego-fernando-jimenez-albornoz-140438302/"
                     className="text-gray-400 hover:text-blue-800"
                   >
                     <FaLinkedin size={30} />
                   </a>
                   <a
-                    href="https://github.com"
+                    href="https://github.com/Pixelito1"
                     className="text-gray-400 hover:text-gray-800"
                   >
                     <FaGithub size={30} />
@@ -124,7 +124,7 @@ function ContactMe() {
                   <p className="text-gray-400 mb-4">
                     <strong>Email:</strong>
                     <br />
-                    diego842010asd@gmail.com
+                    ingmultidiegojimenez@gmail.com
                   </p>
                   <p className="text-gray-400 mb-4">
                     <strong>Residencia:</strong>

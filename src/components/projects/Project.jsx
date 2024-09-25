@@ -9,7 +9,7 @@ function Project({ index, images, title, description, urlGit, urlPage }) {
     <section
       className={`flex ${odd} justify-center items-center gap-2 md:gap-10 pb-16`}
     >
-      <div className="flex justify-center md:w-[40%] w-[60%] ">
+      <div className="flex justify-center md:w-[40%] w-[60%] z-10">
         <ImageGallery
           items={images}
           showPlayButton={true}

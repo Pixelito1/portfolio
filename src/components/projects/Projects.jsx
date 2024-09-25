@@ -3,7 +3,7 @@ import Project from "./Project";
 
 function Projects() {
   return (
-    <div>
+    <div id="2">
       {projects.map((el, index) => (
         <Project
           key={index}

@@ -1,10 +1,13 @@
-import imageAbout from "./AboutMe.avif";
+import imageAbout from "./AboutMe.png";
 import { logos } from "./Icons";
 import Icon from "./Icon";
 function AboutMe() {
   return (
-    <section className="flex flex-col-reverse  md:flex-row justify-center items-center gap-6 text-white md:py-20 py-5">
-      <div className="flex flex-col gap-5 w-[80%] md:w-[50%]">
+    <section
+      id="1"
+      className="flex flex-col-reverse  md:flex-row justify-center items-center gap-6 text-white md:py-20 py-5 pt-24"
+    >
+      <div className="flex flex-col gap-5 w-[80%] md:w-[50%] md:pt-10">
         <p className="text-2xl md:text-5xl font-amatic font-bold">
           Hola soy Diego Jimenez,
           <span className="text-orange-400"> Ingeniero Multimedia </span>
