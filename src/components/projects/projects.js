@@ -13,8 +13,25 @@ import AluraFlix2 from "./AluraFlix/AluraFlix2.png";
 import AluraFlix3 from "./AluraFlix/AluraFlix3.png";
 import AluraFlix4 from "./AluraFlix/AluraFlix4.png";
 import AluraFlix5 from "./AluraFlix/AluraFlix5.png";
+import Inssa1 from "./Inssa/Inssa1.png"
+import Inssa2 from "./Inssa/Inssa2.png"
+import Inssa3 from "./Inssa/Inssa3.png"
+import Inssa4 from "./Inssa/Inssa4.png"
 
 export const projects = [
+  {
+    images: [
+      { original: Inssa1, thumbnail: Inssa1 },
+      { original: Inssa2, thumbnail: Inssa2 },
+      { original: Inssa3, thumbnail: Inssa3 },
+      { original: Inssa4, thumbnail: Inssa4 },
+    ],
+    title: "Modelos interactivos",
+    description:
+      "El sitio web permite explorar y visualizar modelos 3D de forma interactiva. Con una interfaz intuitiva, los usuarios pueden rotar, acercar y examinar los modelos en detalle directamente desde el navegador. Desarrollado con HTML, CSS, JavaScript y Three.js.",
+    urlGit: "https://github.com/PixelNote/gestor-financiero.git",
+    urlPage: "https://nest2022.github.io/Inssa3dModel/Interfaz.html?modelo=cafetera",
+  },
   {
     images: [
       { original: Gestor, thumbnail: Gestor },
