@@ -42,7 +42,7 @@ export const projects = [
     ],
     title: "Gestor Financiero",
     description:
-      "El sitio web permite registrar sus gastos diario y mensual. Con una    interfaz intuitiva, los usuarios pueden acceder fácilmente a sus    transacciones y ver sus gastos. Programada en React y Tailwind.css",
+      "El sitio web permite registrar sus gastos diario y mensual. Con una    interfaz intuitiva, los usuarios pueden acceder fácilmente a sus    transacciones y ver sus gastos. Programada en Angular y Tailwind.css.",
     urlGit: "https://github.com/PixelNote/gestor-financiero.git",
     urlPage: "https://youtu.be/Bc_KjaPjcz4",
   },
@@ -56,7 +56,7 @@ export const projects = [
     ],
     title: "Alura Flix",
     description:
-      "Este es un sitio  registrar sus gastos diario y mensual. Con una    interfaz intuitiva, los usuarios pueden acceder fácilmente a sus    transacciones y ver sus gastos. Programada en React y Tailwind.css",
+      "Este es un sitio  registrar sus gastos diario y mensual. Con una    interfaz intuitiva, los usuarios pueden acceder fácilmente a sus    transacciones y ver sus gastos. Programada en React y Tailwind.css.",
     urlGit: "https://github.com/Pixelito1/AluraFlix.git",
     urlPage: "https://master--aluraflixdiego.netlify.app/",
   },

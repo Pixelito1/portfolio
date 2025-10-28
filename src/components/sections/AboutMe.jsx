@@ -17,7 +17,7 @@ function AboutMe() {
         </p>
         <p className="text-sm md:text-xl font-signika">
           He desarrollado habilidades en tecnologías como HTML5, CSS3,
-          JavaScript, React y Tailwind CSS, lo que me permite crear páginas web
+          JavaScript TypeScript, React, Angular y Tailwind CSS, lo que me permite crear páginas web
           modernas y responsivas, adaptables a cualquier dispositivo. Además, mi
           conocimiento en diseño de interfaces y usabilidad asegura que cada
           proyecto en el que trabajo esté centrado en el usuario y cumpla con la
